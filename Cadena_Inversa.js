@@ -12,4 +12,5 @@ console.log (`La cadena invertida es: ${inversa}`); // Imprime la cadena inverti
 if (CADENA === inversa)                             // Verifica si es palíndromo o no
     console.log("Es un palíndromo (1)");            // Caso 1: Sí es un palíndromo: la cadena original es exactamente igual a la invertida
 else
-    console.log("No es un palíndromo (0)")          // Caso 0: No es un palíndromo: la cadena original no coincide con la invertida
+
+    console.log("No es un palíndromo (0)");          // Caso 0: No es un palíndromo: la cadena original no coincide con la invertida
